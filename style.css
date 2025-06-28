@@ -70,18 +70,18 @@ body{
 }
 .paragraph{
   margin: 0;
-  display: flex;
   padding: 10px;
   margin-left: 330px;
   width: 665px;
-  height: 100vh;
   text-align: justify;
 }
 .paragraph p{
+  text-align: justify;
   margin: 0; 
   font-size: 24px;
   font-family: sans-serif;
   padding: 20px;
 }
+
 
 
